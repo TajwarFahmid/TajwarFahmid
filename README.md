@@ -13,7 +13,7 @@
 # 🚀 Featured Projects:
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
-| **Texas Tech Market Pipeline and Analysis** | Python, SQL, Tableau | [View Project]([https://github.com/TajwarFahmid/Mini-Project-2](https://github.com/TajwarFahmid/texas-tech-market-pipeline/tree/main)) |
+| **Texas Tech Market Pipeline and Analysis** | Python, SQL, Tableau | [View Project](https://github.com/TajwarFahmid/texas-tech-market-pipeline/tree/main) |
 | **Car Sales Dashboard** | SQL, Cognos Analytics | [View Project](https://github.com/TajwarFahmid/Car-Sales-Dashboard) |
 | **Netflix Trend Analysis** | SQL, Python | [View Project](YOUR_NETFLIX_REPO_LINK) |
 | **Walmart Sales Forecast** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Mini-Project-2) |
