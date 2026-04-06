@@ -15,6 +15,6 @@
 | :--- | :--- | :--- |
 | **Texas Tech Market Pipeline and Analysis** | Python, SQL, Tableau | [View Project](https://github.com/TajwarFahmid/texas-tech-market-pipeline/tree/main) |
 | **Car Sales Dashboard** | SQL, Cognos Analytics | [View Project](https://github.com/TajwarFahmid/Car-Sales-Dashboard) |
-| **Netflix Trend Analysis** | SQL, Python | [View Project](YOUR_NETFLIX_REPO_LINK) |
+| **AI-Data-Janitor** | Python | [View Project](https://github.com/TajwarFahmid/AI-Data-Janitor/tree/main) |
 | **Walmart Sales Forecast** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Mini-Project-2) |
 | **Framingham Heart Disease** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Heart-Disease-Link) |
