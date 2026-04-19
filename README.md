@@ -1,16 +1,26 @@
-## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br><br>A Netflix Content Strategy Analysis using SQL. I'm querying a dataset of 8,000+ titles to uncover trends in global content distribution and genre shifts over the last decade.<br><br>🌱 I’m currently learning<br><br>Advanced SQL window functions and finishing my IBM Professional Data Analyst Certification to bridge the gap between raw data and executive-level insights.<br><br>👯 I’m looking to collaborate on<br><br>Interactive Tableau dashboards and SQL-based ETL pipelines that uncover hidden patterns in large, diverse datasets.<br><br>🤝 I’m looking for help with<br><br>Advanced SQL optimization techniques and integrating Tableau with live data sources for real-time opportunity detection.<br><br>🌱 I’m currently learning<br><br>Completing the IBM Professional Data Analyst Certification and mastering advanced visualization strategies for insights.<br><br>💬 Ask me about<br><br>Data cleaning in SQL, normalizing messy datasets for 95%+ integrity, or how I used socio-economic indicators to forecast Walmart sales.<br><br>
+## Hi, I'm Tajwar 👋
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+Data Science student at UT Arlington (May 2026), with hands-on experience in SQL pipelines, Python ETL, and Tableau dashboards from internships in Bangladesh and ongoing research work at UTA. I build things that turn messy data into decisions.
+
+### Recent projects
+- **Automated Data Cleaner** — Python + Streamlit app that cleans any CSV with LLM-generated validation reports (Llama 3 via Groq)
+- **Texas Tech Market Intelligence** — scraped 350+ job listings, built a PostgreSQL warehouse, surfaced 2026 salary benchmarks in Tableau
+- **Walmart Sales Forecasting** — compared Linear, Ridge, and Lasso regression models using economic and weather indicators
+
+### Stack
+Python · SQL / PostgreSQL · Tableau · Streamlit · XGBoost / TensorFlow · AWS / Databricks · Apache Spark
+
+### Links
+- LinkedIn: https://www.linkedin.com/in/tajwar-fahmid-0a1b7720b/
+- Tableau Public: [tajwar.fahmid](https://public.tableau.com/app/profile/tajwar.fahmid8295/vizzes)
+- Mail: tajwar.fahmid@gmail.com
 
 # 🚀 Featured Projects:
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
 | **Texas Tech Market Pipeline and Analysis** | Python, SQL, Tableau | [View Project](https://github.com/TajwarFahmid/texas-tech-market-pipeline/tree/main) |
 | **Car Sales Dashboard** | SQL, Cognos Analytics | [View Project](https://github.com/TajwarFahmid/Car-Sales-Dashboard) |
-| **AI-Data-Janitor** | Python | [View Project](https://github.com/TajwarFahmid/AI-Data-Janitor/tree/main) |
+| **Automated Data Cleaner** | Python | [View Project](https://github.com/TajwarFahmid/AI-Data-Janitor/tree/main) |
 | **Walmart Sales Forecast** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Mini-Project-2) |
 | **Framingham Heart Disease** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Heart-Disease-Link) |
