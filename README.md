@@ -20,7 +20,7 @@ Python · SQL / PostgreSQL · Tableau · Streamlit · XGBoost / TensorFlow · AW
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
 | **Texas Tech Market Pipeline and Analysis** | Python, SQL, Tableau | [View Project](https://github.com/TajwarFahmid/texas-tech-market-pipeline/tree/main) |
-| **Car Sales Dashboard** | SQL, Cognos Analytics | [View Project](https://github.com/TajwarFahmid/Car-Sales-Dashboard) |
+| **NYC Airbnb Dashboards** | Excel, Tableau | [View Project](https://github.com/TajwarFahmid/NYC-Airbnb-Dashboard) |
 | **Automated Data Cleaner** | Python | [View Project](https://github.com/TajwarFahmid/AI-Data-Janitor/tree/main) |
 | **Walmart Sales Forecast** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Mini-Project-2) |
 | **Framingham Heart Disease** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Heart-Disease-Link) |
