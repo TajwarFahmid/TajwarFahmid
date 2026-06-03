@@ -14,7 +14,7 @@ Python · SQL / PostgreSQL · Tableau · Streamlit · XGBoost / TensorFlow · AW
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/tajwar-fahmid-0a1b7720b/
-- Tableau Public: [tajwar.fahmid](https://public.tableau.com/app/profile/tajwar.fahmid8295/vizzes)
+- Check out more cool visualizations I made on on Tableau profile --->Tableau Public: [tajwar.fahmid](https://public.tableau.com/app/profile/tajwar.fahmid8295/vizzes)
 - Mail: tajwar.fahmid@gmail.com
 
 # 🚀 Featured Projects:
@@ -24,4 +24,4 @@ Python · SQL / PostgreSQL · Tableau · Streamlit · XGBoost / TensorFlow · AW
 | **NYC Airbnb Dashboards** | Excel, Tableau | [View Project](https://github.com/TajwarFahmid/NYC-Airbnb-Dashboard) |
 | **Automated Data Cleaner** | Python | [View Project](https://github.com/TajwarFahmid/AI-Data-Janitor/tree/main) |
 | **Walmart Sales Forecast** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Mini-Project-2) |
-| **Framingham Heart Disease** | Python, XGBoost | [View Project](https://github.com/TajwarFahmid/Heart-Disease-Link) |
+
