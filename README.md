@@ -88,8 +88,8 @@ University of Texas at Arlington | *May 2026* | GPA: 3.7 | Dean's List
 
 - **Email:** tajwar.fahmid@gmail.com
 - **Phone:** 682-376-0038
-- **LinkedIn:** [linkedin.com/in/tajwar-fahmid](https://linkedin.com/in/your-profile)
-- **Tableau Portfolio:** [tableau portfolio link]
+- **LinkedIn:** [linkedin.com/in/tajwar-fahmid-0a1b7720b](https://www.linkedin.com/in/tajwar-fahmid-0a1b7720b/)
+- **Tableau Portfolio:** [Tableau Public](https://public.tableau.com/app/profile/tajwar.fahmid8295/vizzes)
 
 ---
 
