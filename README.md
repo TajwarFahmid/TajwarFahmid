@@ -1,6 +1,6 @@
 # Hey, I'm Tajwar Fahmid 👋
 
-**Data Analyst | Data Engineer | Automation & Analytics | Python and SQL Developer
+Data Analyst | Data Engineer | Automation & Analytics | Python and SQL Developer
 
 I build end-to-end data pipelines, automate high-throughput simulation workflows, and translate complex engineering/business datasets into actionable insights. Currently pursuing my M.S. in Applied Statistics and Data Science at the University of Texas at Arlington.
 
@@ -51,17 +51,17 @@ Engineered a headless batch automation and ETL pipeline to programmatically gene
 
 ---
 
-### [Stock Price Forecasting Application](https://github.com/TajwarFahmid)
+### [Stock Price Forecasting Application]([https://github.com/TajwarFahmid](https://github.com/TajwarFahmid/Stock_Price_Predictor))
 **Python | Streamlit | Prophet | Pandas | Plotly**
 
 Interactive web app that fits Facebook Prophet time-series models to generate multi-scenario stock price forecasts with confidence bands. Includes backtesting against holdout data with MAPE/RMSE error quantification for high-volatility regime detection.
 
-### [E-Commerce Retail Sales & Cohort Analysis](https://github.com/TajwarFahmid)
+### [E-Commerce Retail Sales & Cohort Analysis]([https://github.com/TajwarFahmid](https://github.com/TajwarFahmid/Online_Retail_Analytics))
 **Python | PostgreSQL | Tableau | Pandas**
 
 Cleaned 500K+ transactional records and ran customer cohort analysis using advanced SQL (CTEs, window functions). Identified actionable segmentation: 24% of repeat buyers driving 68% of annual revenue to inform retention targeting.
 
-### [NYC Airbnb Market Intelligence Dashboard](https://github.com/TajwarFahmid)
+### [NYC Airbnb Market Intelligence Dashboard]([https://github.com/TajwarFahmid](https://github.com/TajwarFahmid/NYC-Airbnb-Dashboard))
 **Tableau | SQL | Power Query | Excel**
 
 Modeled 30K+ property listings and deployed audience-tailored Tableau dashboards tracking pricing trends, availability patterns, and market dynamics across neighborhoods, significantly reducing time-to-insight for non-technical stakeholders.
