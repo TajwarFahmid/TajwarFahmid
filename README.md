@@ -81,7 +81,7 @@ Engineered a headless batch automation and ETL pipeline to programmatically gene
 - Developed centralized Tableau dashboards utilized by **10+ academic advisors** to monitor live student progress and enrollment trends.
 - Defined early-warning KPI thresholds and cohort risk indicators, directly supporting data-driven advising interventions and higher retention.
 
-**Data Analytics Intern** | ASCENT Group  
+**Data Analytics Intern** | UT System 
 *Jun 2025 – Aug 2025*
 - Automated recurring HR data extraction and transformation jobs using Python and VBA, reducing report turnaround time from days to hours.
 - Developed algorithmic fuzzy-matching logic across disparate HR datasets to resolve employee record discrepancies.
