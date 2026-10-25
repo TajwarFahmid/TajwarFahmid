@@ -28,6 +28,26 @@ I build production-ready data pipelines, automate high-throughput simulation wor
 
 ## 📊 Featured Projects
 
+### [Customer Churn and Missing-Data Analysis](https://github.com/TajwarFahmid/customer-churn-analysis)
+**Python | pandas | scikit-learn | Missing-Data Analysis**
+
+- Compared complete-case deletion with median, KNN, MICE-style, and ExtraTrees imputation on a 3,000-row customer dataset.
+- Evaluated masked-value reconstruction and exploratory churn-model metrics; documented data leakage and missingness assumptions as limitations.
+
+### [ACH Transaction Processor Matching](https://github.com/TajwarFahmid/ach-transaction-matching)
+**Python | pandas | Text Normalization | Fuzzy Matching**
+
+- Normalized ACH memo descriptions and matched them against processor aliases using a token-similarity score.
+- Routed 194 of 1,000 transactions to manual review rather than treating low-confidence suggestions as confirmed matches; the review queue represented $400,550.92.
+
+### [Breast Cancer Classification with PCA and Logistic Regression](https://github.com/TajwarFahmid/breast-cancer-analysis)
+**R | PCA | Logistic Regression | Classification Metrics**
+
+- Compared a nine-feature logistic regression model with a six-component PCA model using a seeded, stratified train/test split.
+- Examined how classification thresholds affect malignant-case sensitivity and false negatives, alongside five-fold cross-validation.
+
+## Additional Projects
+
 ### [BEopt Building Energy Simulation Automation & DOE Pipeline](https://github.com/TajwarFahmid/Green-Building-Project)
 **Python | SQLite3 | Pandas | OpenPyXL | NREL BEopt & EnergyPlus Engine**
 
